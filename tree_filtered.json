@@ -1,0 +1,3158 @@
+{
+  "name": "",
+  "path": "",
+  "children": [
+    {
+      "name": "1ere",
+      "path": "1ere",
+      "children": [
+        {
+          "name": "1ere",
+          "path": "1ere"
+        },
+        {
+          "name": "Algebre_lineaire",
+          "path": "1ere/Algebre_lineaire",
+          "children": [
+            {
+              "name": "Algebre_lineaire",
+              "path": "1ere/Algebre_lineaire"
+            },
+            {
+              "name": "1er_Semestre",
+              "path": "1ere/Algebre_lineaire/1er_Semestre",
+              "children": [
+                {
+                  "name": "1er_Semestre",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324(Heb).pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE1/TE1_2324(Heb).pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324(Heb).pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2/TE2_2324(Heb).pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2425",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425",
+                  "children": [
+                    {
+                      "name": "TE2425",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425"
+                    },
+                    {
+                      "name": "TE_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/TE_2425.pdf"
+                    },
+                    {
+                      "name": "test01pb1abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test01pb1abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test01pb2abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test01pb2abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test01pb3abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test01pb3abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test01pb4abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test01pb4abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test02pb1abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test02pb1abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test02pb2abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test02pb2abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test02pb3abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test02pb3abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test02pb4abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test02pb4abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test03pb1abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test03pb1abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test03pb2abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test03pb2abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test03pb3abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test03pb3abcd_corrige.pdf"
+                    },
+                    {
+                      "name": "test03pb4abcd_corrige.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE2425/test03pb4abcd_corrige.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE3",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre/TE3",
+                  "children": [
+                    {
+                      "name": "TE3",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE3"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE_2324(Janka)",
+                  "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)",
+                  "children": [
+                    {
+                      "name": "TE_2324(Janka)",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-1.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-1.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-2.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-2.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-3.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-3.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-4.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-4.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-1.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-1.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-2.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-2.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-3.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-3.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-4.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-4.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-1.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-1.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-2.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-2.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-3.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-3.pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-4.pdf",
+                      "path": "1ere/Algebre_lineaire/1er_Semestre/TE_2324(Janka)/S1%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-3-4.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2eme_Semestre",
+              "path": "1ere/Algebre_lineaire/2eme_Semestre",
+              "children": [
+                {
+                  "name": "2eme_Semestre",
+                  "path": "1ere/Algebre_lineaire/2eme_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2021.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1/TE1_2021.pdf"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324(Heb).pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1/TE1_2324(Heb).pdf"
+                    },
+                    {
+                      "name": "TE_COVID_19.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE1/TE_COVID_19.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Algebre_lineaire/2eme_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324(Heb).pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE2/TE2_2324(Heb).pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE_2324(Janka)",
+                  "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)",
+                  "children": [
+                    {
+                      "name": "TE_2324(Janka)",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Examen-Final-Corrig%c3%a9.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Examen-Final-Corrig%c3%a9.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Examen-Final.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Examen-Final.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-1.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-1.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-2.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-2.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-3.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-3.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-4.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-1-4.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-1.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-1.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-2.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-2.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-3.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-3.pdf"
+                    },
+                    {
+                      "name": "S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-4.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2324(Janka)/S2%20-%20Math%20-%20Alg%c3%a8bre%20Lin%c3%a9aire%20-%20Mini-Test-2-4.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE_2425(Janka)",
+                  "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)",
+                  "children": [
+                    {
+                      "name": "TE_2425(Janka)",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)"
+                    },
+                    {
+                      "name": "TE1.1_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE1.1_2425.pdf"
+                    },
+                    {
+                      "name": "TE1.2_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE1.2_2425.pdf"
+                    },
+                    {
+                      "name": "TE1.3_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE1.3_2425.pdf"
+                    },
+                    {
+                      "name": "TE1.4_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE1.4_2425.pdf"
+                    },
+                    {
+                      "name": "TE2.1_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE2.1_2425.pdf"
+                    },
+                    {
+                      "name": "TE2.2_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE2.2_2425.pdf"
+                    },
+                    {
+                      "name": "TE_2425.pdf",
+                      "path": "1ere/Algebre_lineaire/2eme_Semestre/TE_2425(Janka)/TE_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "TE_DE",
+              "path": "1ere/Algebre_lineaire/TE_DE",
+              "children": [
+                {
+                  "name": "TE_DE",
+                  "path": "1ere/Algebre_lineaire/TE_DE"
+                },
+                {
+                  "name": "linalg1_TE2_de.pdf",
+                  "path": "1ere/Algebre_lineaire/TE_DE/linalg1_TE2_de.pdf"
+                },
+                {
+                  "name": "linalg2_TE2_de.pdf",
+                  "path": "1ere/Algebre_lineaire/TE_DE/linalg2_TE2_de.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Algorithmique",
+          "path": "1ere/Algorithmique",
+          "children": [
+            {
+              "name": "Algorithmique",
+              "path": "1ere/Algorithmique"
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/Algorithmique/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/Algorithmique/TE1"
+                },
+                {
+                  "name": "TE1_2021.pdf",
+                  "path": "1ere/Algorithmique/TE1/TE1_2021.pdf"
+                },
+                {
+                  "name": "TE1_2023.pdf",
+                  "path": "1ere/Algorithmique/TE1/TE1_2023.pdf"
+                },
+                {
+                  "name": "TE1_2223.pdf",
+                  "path": "1ere/Algorithmique/TE1/TE1_2223.pdf"
+                },
+                {
+                  "name": "TE1_2324.pdf",
+                  "path": "1ere/Algorithmique/TE1/TE1_2324.pdf"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Algorithmique/TE1/TE1_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE1_DE",
+              "path": "1ere/Algorithmique/TE1_DE",
+              "children": [
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Algorithmique/TE1_DE"
+                },
+                {
+                  "name": "ALGO1_TE1_2425_DE.pdf",
+                  "path": "1ere/Algorithmique/TE1_DE/ALGO1_TE1_2425_DE.pdf"
+                },
+                {
+                  "name": "algo_TE1_de.pdf",
+                  "path": "1ere/Algorithmique/TE1_DE/algo_TE1_de.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2",
+              "path": "1ere/Algorithmique/TE2",
+              "children": [
+                {
+                  "name": "TE2",
+                  "path": "1ere/Algorithmique/TE2"
+                },
+                {
+                  "name": "TE2_2223(Bapst).pdf",
+                  "path": "1ere/Algorithmique/TE2/TE2_2223(Bapst).pdf"
+                },
+                {
+                  "name": "TE2_2223.pdf",
+                  "path": "1ere/Algorithmique/TE2/TE2_2223.pdf"
+                },
+                {
+                  "name": "TE2_2324.pdf",
+                  "path": "1ere/Algorithmique/TE2/TE2_2324.pdf"
+                },
+                {
+                  "name": "TE2_2425.pdf",
+                  "path": "1ere/Algorithmique/TE2/TE2_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2_DE",
+              "path": "1ere/Algorithmique/TE2_DE",
+              "children": [
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Algorithmique/TE2_DE"
+                },
+                {
+                  "name": "ALGO1_TE2_2425_DE.pdf",
+                  "path": "1ere/Algorithmique/TE2_DE/ALGO1_TE2_2425_DE.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Allemand",
+          "path": "1ere/Allemand",
+          "children": [
+            {
+              "name": "Allemand",
+              "path": "1ere/Allemand"
+            },
+            {
+              "name": "Semestre1",
+              "path": "1ere/Allemand/Semestre1",
+              "children": [
+                {
+                  "name": "Semestre1",
+                  "path": "1ere/Allemand/Semestre1"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Allemand/Semestre1/TE1_2425.pdf"
+                },
+                {
+                  "name": "TE2_2425.pdf",
+                  "path": "1ere/Allemand/Semestre1/TE2_2425.pdf"
+                },
+                {
+                  "name": "TE_2324",
+                  "path": "1ere/Allemand/Semestre1/TE_2324",
+                  "children": [
+                    {
+                      "name": "TE_2324",
+                      "path": "1ere/Allemand/Semestre1/TE_2324"
+                    },
+                    {
+                      "name": "S1%20-%20Expression%20-%20Allemand%20-%20Travail%20Ecrit%201.pdf",
+                      "path": "1ere/Allemand/Semestre1/TE_2324/S1%20-%20Expression%20-%20Allemand%20-%20Travail%20Ecrit%201.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Semestre2",
+              "path": "1ere/Allemand/Semestre2",
+              "children": [
+                {
+                  "name": "Semestre2",
+                  "path": "1ere/Allemand/Semestre2"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Allemand/Semestre2/TE1_2425.pdf"
+                },
+                {
+                  "name": "TE_2021.pdf",
+                  "path": "1ere/Allemand/Semestre2/TE_2021.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Analyse",
+          "path": "1ere/Analyse",
+          "children": [
+            {
+              "name": "Analyse",
+              "path": "1ere/Analyse"
+            },
+            {
+              "name": "Livres",
+              "path": "1ere/Analyse/Livres",
+              "children": [
+                {
+                  "name": "Livres",
+                  "path": "1ere/Analyse/Livres"
+                },
+                {
+                  "name": "Amyotte%20-%20Calcul%20diff%c3%a9rentiel.pdf",
+                  "path": "1ere/Analyse/Livres/Amyotte%20-%20Calcul%20diff%c3%a9rentiel.pdf"
+                },
+                {
+                  "name": "Amyotte_Calcul_int%c3%a9gral.pdf",
+                  "path": "1ere/Analyse/Livres/Amyotte_Calcul_int%c3%a9gral.pdf"
+                },
+                {
+                  "name": "Amyotte_Calcul_int%c3%a9gral_avecOCR.pdf",
+                  "path": "1ere/Analyse/Livres/Amyotte_Calcul_int%c3%a9gral_avecOCR.pdf"
+                }
+              ]
+            },
+            {
+              "name": "Semestre%201",
+              "path": "1ere/Analyse/Semestre%201",
+              "children": [
+                {
+                  "name": "Semestre%201",
+                  "path": "1ere/Analyse/Semestre%201"
+                },
+                {
+                  "name": "ES_DE",
+                  "path": "1ere/Analyse/Semestre%201/ES_DE",
+                  "children": [
+                    {
+                      "name": "ES_DE",
+                      "path": "1ere/Analyse/Semestre%201/ES_DE"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Analyse/Semestre%201/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Analyse/Semestre%201/TE1_DE"
+                    },
+                    {
+                      "name": "ana1_TE1_de.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_DE/ana1_TE1_de.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_FR",
+                  "path": "1ere/Analyse/Semestre%201/TE1_FR",
+                  "children": [
+                    {
+                      "name": "TE1_FR",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR"
+                    },
+                    {
+                      "name": "ANA1_TE1_2021_FR.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR/ANA1_TE1_2021_FR.pdf"
+                    },
+                    {
+                      "name": "Analyse1_TE1_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR/Analyse1_TE1_2223.pdf"
+                    },
+                    {
+                      "name": "Analyse_1_TE1_2022.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR/Analyse_1_TE1_2022.pdf"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324(Clerc).pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE1_FR/TE1_2324(Clerc).pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2425",
+                  "path": "1ere/Analyse/Semestre%201/TE2425",
+                  "children": [
+                    {
+                      "name": "TE2425",
+                      "path": "1ere/Analyse/Semestre%201/TE2425"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2425/TE1_2425.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2425/TE2_2425.pdf"
+                    },
+                    {
+                      "name": "TE3_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2425/TE3_2425.pdf"
+                    },
+                    {
+                      "name": "TE4_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2425/TE4_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Analyse/Semestre%201/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Analyse/Semestre%201/TE2_DE"
+                    },
+                    {
+                      "name": "ana1_TE2_DE.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2_DE/ana1_TE2_DE.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_FR",
+                  "path": "1ere/Analyse/Semestre%201/TE2_FR",
+                  "children": [
+                    {
+                      "name": "TE2_FR",
+                      "path": "1ere/Analyse/Semestre%201/TE2_FR"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2_FR/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324(Clerc).pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2_FR/TE2_2324(Clerc).pdf"
+                    },
+                    {
+                      "name": "analyse_1_TE2_2023.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE2_FR/analyse_1_TE2_2023.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE3_FR",
+                  "path": "1ere/Analyse/Semestre%201/TE3_FR",
+                  "children": [
+                    {
+                      "name": "TE3_FR",
+                      "path": "1ere/Analyse/Semestre%201/TE3_FR"
+                    },
+                    {
+                      "name": "TE3_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE3_FR/TE3_2223.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE_2324(Balten)",
+                  "path": "1ere/Analyse/Semestre%201/TE_2324(Balten)",
+                  "children": [
+                    {
+                      "name": "TE_2324(Balten)",
+                      "path": "1ere/Analyse/Semestre%201/TE_2324(Balten)"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%200%20(30min).pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE_2324(Balten)/S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%200%20(30min).pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%201%20(90min).pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE_2324(Balten)/S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%201%20(90min).pdf"
+                    },
+                    {
+                      "name": "S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%202%20(20min).pdf",
+                      "path": "1ere/Analyse/Semestre%201/TE_2324(Balten)/S1%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%202%20(20min).pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Semestre%202",
+              "path": "1ere/Analyse/Semestre%202",
+              "children": [
+                {
+                  "name": "Semestre%202",
+                  "path": "1ere/Analyse/Semestre%202"
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Analyse/Semestre%202/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Analyse/Semestre%202/TE1_DE"
+                    },
+                    {
+                      "name": "ana2_TE1_DE.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_DE/ana2_TE1_DE.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_FR",
+                  "path": "1ere/Analyse/Semestre%202/TE1_FR",
+                  "children": [
+                    {
+                      "name": "TE1_FR",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR"
+                    },
+                    {
+                      "name": "ANA2_TE1_2021_FR.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/ANA2_TE1_2021_FR.pdf"
+                    },
+                    {
+                      "name": "Analyse_2_TE1_2023.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/Analyse_2_TE1_2023.pdf"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324(Clerc).pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/TE1_2324(Clerc).pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/TE1_2425.pdf"
+                    },
+                    {
+                      "name": "TE_2324(Balten)",
+                      "path": "1ere/Analyse/Semestre%202/TE1_FR/TE_2324(Balten)",
+                      "children": [
+                        {
+                          "name": "TE_2324(Balten)",
+                          "path": "1ere/Analyse/Semestre%202/TE1_FR/TE_2324(Balten)"
+                        },
+                        {
+                          "name": "S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%200%20(20min).pdf",
+                          "path": "1ere/Analyse/Semestre%202/TE1_FR/TE_2324(Balten)/S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%200%20(20min).pdf"
+                        },
+                        {
+                          "name": "S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%201%20(90min).pdf",
+                          "path": "1ere/Analyse/Semestre%202/TE1_FR/TE_2324(Balten)/S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%201%20(90min).pdf"
+                        },
+                        {
+                          "name": "S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%202%20(20min).pdf",
+                          "path": "1ere/Analyse/Semestre%202/TE1_FR/TE_2324(Balten)/S2%20-%20Math%20-%20Analyse%20-%20Travail%20Ecrit%202%20(20min).pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Analyse/Semestre%202/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Analyse/Semestre%202/TE2_DE"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_FR",
+                  "path": "1ere/Analyse/Semestre%202/TE2_FR",
+                  "children": [
+                    {
+                      "name": "TE2_FR",
+                      "path": "1ere/Analyse/Semestre%202/TE2_FR"
+                    },
+                    {
+                      "name": "Analyse_2_TE2_2023.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE2_FR/Analyse_2_TE2_2023.pdf"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE2_FR/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324(Clerc).pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE2_FR/TE2_2324(Clerc).pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE2_FR/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE3_DE",
+                  "path": "1ere/Analyse/Semestre%202/TE3_DE",
+                  "children": [
+                    {
+                      "name": "TE3_DE",
+                      "path": "1ere/Analyse/Semestre%202/TE3_DE"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE3_FR",
+                  "path": "1ere/Analyse/Semestre%202/TE3_FR",
+                  "children": [
+                    {
+                      "name": "TE3_FR",
+                      "path": "1ere/Analyse/Semestre%202/TE3_FR"
+                    },
+                    {
+                      "name": "TE3_2223.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE3_FR/TE3_2223.pdf"
+                    },
+                    {
+                      "name": "TE3_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE3_FR/TE3_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE4_FR",
+                  "path": "1ere/Analyse/Semestre%202/TE4_FR",
+                  "children": [
+                    {
+                      "name": "TE4_FR",
+                      "path": "1ere/Analyse/Semestre%202/TE4_FR"
+                    },
+                    {
+                      "name": "TE4_2425.pdf",
+                      "path": "1ere/Analyse/Semestre%202/TE4_FR/TE4_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anglais",
+          "path": "1ere/Anglais",
+          "children": [
+            {
+              "name": "Anglais",
+              "path": "1ere/Anglais"
+            },
+            {
+              "name": "Semestre1",
+              "path": "1ere/Anglais/Semestre1",
+              "children": [
+                {
+                  "name": "Semestre1",
+                  "path": "1ere/Anglais/Semestre1"
+                }
+              ]
+            },
+            {
+              "name": "Semestre2",
+              "path": "1ere/Anglais/Semestre2",
+              "children": [
+                {
+                  "name": "Semestre2",
+                  "path": "1ere/Anglais/Semestre2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Communication",
+          "path": "1ere/Communication",
+          "children": [
+            {
+              "name": "Communication",
+              "path": "1ere/Communication"
+            },
+            {
+              "name": "2emeSemestre",
+              "path": "1ere/Communication/2emeSemestre",
+              "children": [
+                {
+                  "name": "2emeSemestre",
+                  "path": "1ere/Communication/2emeSemestre"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Communication/2emeSemestre/TE1_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/Communication/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/Communication/TE1"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Communication/TE1/TE1_2425.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cours%20obsol%c3%a8tes",
+          "path": "1ere/Cours%20obsol%c3%a8tes",
+          "children": [
+            {
+              "name": "Cours%20obsol%c3%a8tes",
+              "path": "1ere/Cours%20obsol%c3%a8tes"
+            },
+            {
+              "name": "Communcation%20Visuelle",
+              "path": "1ere/Cours%20obsol%c3%a8tes/Communcation%20Visuelle",
+              "children": [
+                {
+                  "name": "Communcation%20Visuelle",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Communcation%20Visuelle"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Communcation%20Visuelle/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Communcation%20Visuelle/TE1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Comptabilit%c3%a9",
+              "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9",
+              "children": [
+                {
+                  "name": "Comptabilit%c3%a9",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9"
+                },
+                {
+                  "name": "1er_Semestre",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre",
+                  "children": [
+                    {
+                      "name": "1er_Semestre",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/1er_Semestre/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2eme_Semestre",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/2eme_Semestre",
+                  "children": [
+                    {
+                      "name": "2eme_Semestre",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/2eme_Semestre"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/2eme_Semestre/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Comptabilit%c3%a9/2eme_Semestre/TE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Math%20internet%20et%20comm",
+              "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm",
+              "children": [
+                {
+                  "name": "Math%20internet%20et%20comm",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm"
+                },
+                {
+                  "name": "1er_Semestre",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre",
+                  "children": [
+                    {
+                      "name": "1er_Semestre",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/1er_Semestre/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "2eme_Semestre",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre",
+                  "children": [
+                    {
+                      "name": "2eme_Semestre",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "1ere/Cours%20obsol%c3%a8tes/Math%20internet%20et%20comm/2eme_Semestre/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Representation%20de%20l%27information",
+              "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information",
+              "children": [
+                {
+                  "name": "Representation%20de%20l%27information",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information/TE1"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Cours%20obsol%c3%a8tes/Representation%20de%20l%27information/TE2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IHM",
+          "path": "1ere/IHM",
+          "children": [
+            {
+              "name": "IHM",
+              "path": "1ere/IHM"
+            },
+            {
+              "name": "README.txt",
+              "path": "1ere/IHM/README.txt"
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/IHM/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/IHM/TE1"
+                },
+                {
+                  "name": "IHM_TE1_2021.pdf",
+                  "path": "1ere/IHM/TE1/IHM_TE1_2021.pdf"
+                },
+                {
+                  "name": "TE1_2223(Ingram).pdf",
+                  "path": "1ere/IHM/TE1/TE1_2223(Ingram).pdf"
+                },
+                {
+                  "name": "TE1_2223.pdf",
+                  "path": "1ere/IHM/TE1/TE1_2223.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2",
+              "path": "1ere/IHM/TE2",
+              "children": [
+                {
+                  "name": "TE2",
+                  "path": "1ere/IHM/TE2"
+                },
+                {
+                  "name": "TE2_2021.pdf",
+                  "path": "1ere/IHM/TE2/TE2_2021.pdf"
+                },
+                {
+                  "name": "TE2_2223_Rattrapage.pdf",
+                  "path": "1ere/IHM/TE2/TE2_2223_Rattrapage.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Methodologie",
+          "path": "1ere/Methodologie",
+          "children": [
+            {
+              "name": "Methodologie",
+              "path": "1ere/Methodologie"
+            },
+            {
+              "name": "F-Support%20de%20cours%2016_17.pdf",
+              "path": "1ere/Methodologie/F-Support%20de%20cours%2016_17.pdf"
+            },
+            {
+              "name": "README.txt",
+              "path": "1ere/Methodologie/README.txt"
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/Methodologie/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/Methodologie/TE1"
+                },
+                {
+                  "name": "METHOSECU_TE1_2223.pdf",
+                  "path": "1ere/Methodologie/TE1/METHOSECU_TE1_2223.pdf"
+                },
+                {
+                  "name": "METHOSECU_TE1_2324.pdf",
+                  "path": "1ere/Methodologie/TE1/METHOSECU_TE1_2324.pdf"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Methodologie/TE1/TE1_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE1_DE",
+              "path": "1ere/Methodologie/TE1_DE",
+              "children": [
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Methodologie/TE1_DE"
+                },
+                {
+                  "name": "METHSEC_TE1_2425_DE.pdf",
+                  "path": "1ere/Methodologie/TE1_DE/METHSEC_TE1_2425_DE.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2",
+              "path": "1ere/Methodologie/TE2",
+              "children": [
+                {
+                  "name": "TE2",
+                  "path": "1ere/Methodologie/TE2"
+                },
+                {
+                  "name": "METHOSECU_TE2_2223.pdf",
+                  "path": "1ere/Methodologie/TE2/METHOSECU_TE2_2223.pdf"
+                },
+                {
+                  "name": "METHOSECU_TE2_2324(Haab).pdf",
+                  "path": "1ere/Methodologie/TE2/METHOSECU_TE2_2324(Haab).pdf"
+                },
+                {
+                  "name": "TE2_2425.pdf",
+                  "path": "1ere/Methodologie/TE2/TE2_2425.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Programmation",
+          "path": "1ere/Programmation",
+          "children": [
+            {
+              "name": "Programmation",
+              "path": "1ere/Programmation"
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/Programmation/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/Programmation/TE1"
+                },
+                {
+                  "name": "TE1_2022.pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2022.pdf"
+                },
+                {
+                  "name": "TE1_2223(Bapst).pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2223(Bapst).pdf"
+                },
+                {
+                  "name": "TE1_2223.pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2223.pdf"
+                },
+                {
+                  "name": "TE1_2324(Bapst).pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2324(Bapst).pdf"
+                },
+                {
+                  "name": "TE1_2324.pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2324.pdf"
+                },
+                {
+                  "name": "TE1_2425.pdf",
+                  "path": "1ere/Programmation/TE1/TE1_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE1_DE",
+              "path": "1ere/Programmation/TE1_DE",
+              "children": [
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Programmation/TE1_DE"
+                },
+                {
+                  "name": "PROG_TE1_2425_DE.pdf",
+                  "path": "1ere/Programmation/TE1_DE/PROG_TE1_2425_DE.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2",
+              "path": "1ere/Programmation/TE2",
+              "children": [
+                {
+                  "name": "TE2",
+                  "path": "1ere/Programmation/TE2"
+                },
+                {
+                  "name": "TE2_2223(Bapst).pdf",
+                  "path": "1ere/Programmation/TE2/TE2_2223(Bapst).pdf"
+                },
+                {
+                  "name": "TE2_2223.pdf",
+                  "path": "1ere/Programmation/TE2/TE2_2223.pdf"
+                },
+                {
+                  "name": "TE2_2324(Bapst).pdf",
+                  "path": "1ere/Programmation/TE2/TE2_2324(Bapst).pdf"
+                },
+                {
+                  "name": "TE2_2324.pdf",
+                  "path": "1ere/Programmation/TE2/TE2_2324.pdf"
+                },
+                {
+                  "name": "TE2_2425.pdf",
+                  "path": "1ere/Programmation/TE2/TE2_2425.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2_DE",
+              "path": "1ere/Programmation/TE2_DE",
+              "children": [
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Programmation/TE2_DE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Technique_numerique",
+          "path": "1ere/Technique_numerique",
+          "children": [
+            {
+              "name": "Technique_numerique",
+              "path": "1ere/Technique_numerique"
+            },
+            {
+              "name": "1er_Semestre",
+              "path": "1ere/Technique_numerique/1er_Semestre",
+              "children": [
+                {
+                  "name": "1er_Semestre",
+                  "path": "1ere/Technique_numerique/1er_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Technique_numerique/1er_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2223(Schroeter).pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1/TE1_2223(Schroeter).pdf"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Technique_numerique/1er_Semestre/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1_DE"
+                    },
+                    {
+                      "name": "NT1_TE1_2425_DE.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1_DE/NT1_TE1_2425_DE.pdf"
+                    },
+                    {
+                      "name": "technum1_TE1.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE1_DE/technum1_TE1.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Technique_numerique/1er_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2223(Schroeter).pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2/TE2_2223(Schroeter).pdf"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Technique_numerique/1er_Semestre/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2_DE"
+                    },
+                    {
+                      "name": "NT1_TE2_2425_DE.pdf",
+                      "path": "1ere/Technique_numerique/1er_Semestre/TE2_DE/NT1_TE2_2425_DE.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2eme_Semestre",
+              "path": "1ere/Technique_numerique/2eme_Semestre",
+              "children": [
+                {
+                  "name": "2eme_Semestre",
+                  "path": "1ere/Technique_numerique/2eme_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Technique_numerique/2eme_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2021.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1/TE1_2021.pdf"
+                    },
+                    {
+                      "name": "TE1_2223(Schroeter).pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1/TE1_2223(Schroeter).pdf"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Technique_numerique/2eme_Semestre/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1_DE"
+                    },
+                    {
+                      "name": "NT2_TE3_2425_DE.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1_DE/NT2_TE3_2425_DE.pdf"
+                    },
+                    {
+                      "name": "technum2_TE1.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE1_DE/technum2_TE1.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Technique_numerique/2eme_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2021.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2/TE2_2021.pdf"
+                    },
+                    {
+                      "name": "TE2_2223(Schroeter).pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2/TE2_2223(Schroeter).pdf"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Technique_numerique/2eme_Semestre/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2_DE"
+                    },
+                    {
+                      "name": "NT2_TE4_2425_DE.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2_DE/NT2_TE4_2425_DE.pdf"
+                    },
+                    {
+                      "name": "technum2_TE2.pdf",
+                      "path": "1ere/Technique_numerique/2eme_Semestre/TE2_DE/technum2_TE2.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Teleinformatique",
+          "path": "1ere/Teleinformatique",
+          "children": [
+            {
+              "name": "Teleinformatique",
+              "path": "1ere/Teleinformatique"
+            },
+            {
+              "name": "1er_Semestre",
+              "path": "1ere/Teleinformatique/1er_Semestre",
+              "children": [
+                {
+                  "name": "1er_Semestre",
+                  "path": "1ere/Teleinformatique/1er_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Teleinformatique/1er_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Teleinformatique/1er_Semestre/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1_DE"
+                    },
+                    {
+                      "name": "TIN1_TE1_2425_DE.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1_DE/TIN1_TE1_2425_DE.pdf"
+                    },
+                    {
+                      "name": "teleinf1_TE1_de.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE1_DE/teleinf1_TE1_de.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Teleinformatique/1er_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Teleinformatique/1er_Semestre/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2_DE"
+                    },
+                    {
+                      "name": "teleinf1_TE2_de.pdf",
+                      "path": "1ere/Teleinformatique/1er_Semestre/TE2_DE/teleinf1_TE2_de.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2eme_Semestre",
+              "path": "1ere/Teleinformatique/2eme_Semestre",
+              "children": [
+                {
+                  "name": "2eme_Semestre",
+                  "path": "1ere/Teleinformatique/2eme_Semestre"
+                },
+                {
+                  "name": "TE1",
+                  "path": "1ere/Teleinformatique/2eme_Semestre/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "1ere/Teleinformatique/2eme_Semestre/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1_DE"
+                    },
+                    {
+                      "name": "TIN2_TE3_2425_DE.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1_DE/TIN2_TE3_2425_DE.pdf"
+                    },
+                    {
+                      "name": "teleinf2_TE1_de%20.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE1_DE/teleinf2_TE1_de%20.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "1ere/Teleinformatique/2eme_Semestre/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2"
+                    },
+                    {
+                      "name": "TE2_2223.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2/TE2_2223.pdf"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "1ere/Teleinformatique/2eme_Semestre/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2_DE"
+                    },
+                    {
+                      "name": "TIN2_TE4_2425_DE.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2_DE/TIN2_TE4_2425_DE.pdf"
+                    },
+                    {
+                      "name": "teleinf2_TE2_de.pdf",
+                      "path": "1ere/Teleinformatique/2eme_Semestre/TE2_DE/teleinf2_TE2_de.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "%c3%89conomie%20et%20droit",
+          "path": "1ere/%c3%89conomie%20et%20droit",
+          "children": [
+            {
+              "name": "%c3%89conomie%20et%20droit",
+              "path": "1ere/%c3%89conomie%20et%20droit"
+            },
+            {
+              "name": "TE1",
+              "path": "1ere/%c3%89conomie%20et%20droit/TE1",
+              "children": [
+                {
+                  "name": "TE1",
+                  "path": "1ere/%c3%89conomie%20et%20droit/TE1"
+                },
+                {
+                  "name": "TE1_2223.pdf",
+                  "path": "1ere/%c3%89conomie%20et%20droit/TE1/TE1_2223.pdf"
+                }
+              ]
+            },
+            {
+              "name": "TE2",
+              "path": "1ere/%c3%89conomie%20et%20droit/TE2",
+              "children": [
+                {
+                  "name": "TE2",
+                  "path": "1ere/%c3%89conomie%20et%20droit/TE2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2eme",
+      "path": "2eme",
+      "children": [
+        {
+          "name": "2eme",
+          "path": "2eme"
+        },
+        {
+          "name": "Cours%20obsol%c3%a8tes",
+          "path": "2eme/Cours%20obsol%c3%a8tes",
+          "children": [
+            {
+              "name": "Cours%20obsol%c3%a8tes",
+              "path": "2eme/Cours%20obsol%c3%a8tes"
+            },
+            {
+              "name": "analyse_financi%c3%a8re",
+              "path": "2eme/Cours%20obsol%c3%a8tes/analyse_financi%c3%a8re",
+              "children": [
+                {
+                  "name": "analyse_financi%c3%a8re",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/analyse_financi%c3%a8re"
+                }
+              ]
+            },
+            {
+              "name": "economie_entreprise",
+              "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise",
+              "children": [
+                {
+                  "name": "economie_entreprise",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise"
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise/TE1_DE"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/economie_entreprise/TE2_DE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "systeme_exploitation",
+              "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation",
+              "children": [
+                {
+                  "name": "systeme_exploitation",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation"
+                },
+                {
+                  "name": "Informatique",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique",
+                  "children": [
+                    {
+                      "name": "Informatique",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/Informatique/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "RESUMES",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/RESUMES",
+                  "children": [
+                    {
+                      "name": "RESUMES",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/RESUMES"
+                    },
+                    {
+                      "name": "OS_TE1.pdf",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/RESUMES/OS_TE1.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE",
+                  "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE",
+                  "children": [
+                    {
+                      "name": "TE",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE1"
+                        },
+                        {
+                          "name": "OS_TE1_2021.pdf",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE1/OS_TE1_2021.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE2"
+                        },
+                        {
+                          "name": "OS_TE2_2021.pdf",
+                          "path": "2eme/Cours%20obsol%c3%a8tes/systeme_exploitation/TE/TE2/OS_TE2_2021.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ID",
+          "path": "2eme/ID",
+          "children": [
+            {
+              "name": "ID",
+              "path": "2eme/ID"
+            },
+            {
+              "name": "back_end",
+              "path": "2eme/ID/back_end",
+              "children": [
+                {
+                  "name": "back_end",
+                  "path": "2eme/ID/back_end"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/back_end/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/back_end/TE1"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/ID/back_end/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/ID/back_end/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "front_end",
+              "path": "2eme/ID/front_end",
+              "children": [
+                {
+                  "name": "front_end",
+                  "path": "2eme/ID/front_end"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/front_end/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/front_end/TE1"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/ID/front_end/TE1/TE1_2324.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "infrastructures_cloud",
+              "path": "2eme/ID/infrastructures_cloud",
+              "children": [
+                {
+                  "name": "infrastructures_cloud",
+                  "path": "2eme/ID/infrastructures_cloud"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/infrastructures_cloud/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/infrastructures_cloud/TE1"
+                    },
+                    {
+                      "name": "2324.pdf",
+                      "path": "2eme/ID/infrastructures_cloud/TE1/2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/ID/infrastructures_cloud/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "infrastructures_distribu%c3%a9es",
+              "path": "2eme/ID/infrastructures_distribu%c3%a9es",
+              "children": [
+                {
+                  "name": "infrastructures_distribu%c3%a9es",
+                  "path": "2eme/ID/infrastructures_distribu%c3%a9es"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/infrastructures_distribu%c3%a9es/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/infrastructures_distribu%c3%a9es/TE1"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/ID/infrastructures_distribu%c3%a9es/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "internet_des_objets",
+              "path": "2eme/ID/internet_des_objets",
+              "children": [
+                {
+                  "name": "internet_des_objets",
+                  "path": "2eme/ID/internet_des_objets"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/internet_des_objets/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/internet_des_objets/TE1"
+                    },
+                    {
+                      "name": "TE1_2223.pdf",
+                      "path": "2eme/ID/internet_des_objets/TE1/TE1_2223.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/ID/internet_des_objets/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/ID/internet_des_objets/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/ID/internet_des_objets/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/ID/internet_des_objets/TE2"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "2eme/ID/internet_des_objets/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "2eme/ID/internet_des_objets/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "machine_learning",
+              "path": "2eme/ID/machine_learning",
+              "children": [
+                {
+                  "name": "machine_learning",
+                  "path": "2eme/ID/machine_learning"
+                },
+                {
+                  "name": "TE1%20machine%20learning_2324.pdf",
+                  "path": "2eme/ID/machine_learning/TE1%20machine%20learning_2324.pdf"
+                }
+              ]
+            },
+            {
+              "name": "math_analyse_donn%c3%a9es",
+              "path": "2eme/ID/math_analyse_donn%c3%a9es",
+              "children": [
+                {
+                  "name": "math_analyse_donn%c3%a9es",
+                  "path": "2eme/ID/math_analyse_donn%c3%a9es"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/ID/math_analyse_donn%c3%a9es/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE1"
+                    },
+                    {
+                      "name": "TE1%20ANALYSE%20DONNEES_2324.pdf",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE1/TE1%20ANALYSE%20DONNEES_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/ID/math_analyse_donn%c3%a9es/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE2"
+                    },
+                    {
+                      "name": "TE2%20STAT_2324.pdf",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE2/TE2%20STAT_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "2eme/ID/math_analyse_donn%c3%a9es/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tronc%20commun",
+          "path": "2eme/Tronc%20commun",
+          "children": [
+            {
+              "name": "Tronc%20commun",
+              "path": "2eme/Tronc%20commun"
+            },
+            {
+              "name": "architecture_des_ordinateurs",
+              "path": "2eme/Tronc%20commun/architecture_des_ordinateurs",
+              "children": [
+                {
+                  "name": "architecture_des_ordinateurs",
+                  "path": "2eme/Tronc%20commun/architecture_des_ordinateurs"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE1"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE2"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "2eme/Tronc%20commun/architecture_des_ordinateurs/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "base%20de%20donn%c3%a9e",
+              "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e",
+              "children": [
+                {
+                  "name": "base%20de%20donn%c3%a9e",
+                  "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE1"
+                    },
+                    {
+                      "name": "BD%20TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE1/BD%20TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/base%20de%20donn%c3%a9e/TE2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "genie_logiciel",
+              "path": "2eme/Tronc%20commun/genie_logiciel",
+              "children": [
+                {
+                  "name": "genie_logiciel",
+                  "path": "2eme/Tronc%20commun/genie_logiciel"
+                },
+                {
+                  "name": "QUIZ",
+                  "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ",
+                  "children": [
+                    {
+                      "name": "QUIZ",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ"
+                    },
+                    {
+                      "name": "03",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/03",
+                      "children": [
+                        {
+                          "name": "03",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/03"
+                        },
+                        {
+                          "name": "1.png",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/03/1.png"
+                        },
+                        {
+                          "name": "2.png",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/03/2.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "04",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/04",
+                      "children": [
+                        {
+                          "name": "04",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/04"
+                        },
+                        {
+                          "name": "1.jpg",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/04/1.jpg"
+                        },
+                        {
+                          "name": "2.jpg",
+                          "path": "2eme/Tronc%20commun/genie_logiciel/QUIZ/04/2.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "TD",
+                  "path": "2eme/Tronc%20commun/genie_logiciel/TD",
+                  "children": [
+                    {
+                      "name": "TD",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/TD"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/genie_logiciel/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/TE1"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/Tronc%20commun/genie_logiciel/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/TE2"
+                    },
+                    {
+                      "name": "GL1_TE2_2324.pdf",
+                      "path": "2eme/Tronc%20commun/genie_logiciel/TE2/GL1_TE2_2324.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gestion_projet",
+              "path": "2eme/Tronc%20commun/gestion_projet",
+              "children": [
+                {
+                  "name": "gestion_projet",
+                  "path": "2eme/Tronc%20commun/gestion_projet"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/gestion_projet/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/gestion_projet/TE1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "math_specifique%201%20et%202",
+              "path": "2eme/Tronc%20commun/math_specifique%201%20et%202",
+              "children": [
+                {
+                  "name": "math_specifique%201%20et%202",
+                  "path": "2eme/Tronc%20commun/math_specifique%201%20et%202"
+                },
+                {
+                  "name": "Semestre%201",
+                  "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201",
+                  "children": [
+                    {
+                      "name": "Semestre%201",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE1"
+                        },
+                        {
+                          "name": "TE1_2324.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE1/TE1_2324.pdf"
+                        },
+                        {
+                          "name": "TE1_2324_t-clerc.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE1/TE1_2324_t-clerc.pdf"
+                        },
+                        {
+                          "name": "TE1_2425.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE1/TE1_2425.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2"
+                        },
+                        {
+                          "name": "TE2_2324.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2/TE2_2324.pdf"
+                        },
+                        {
+                          "name": "TE2_2324_t-clerc.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2/TE2_2324_t-clerc.pdf"
+                        },
+                        {
+                          "name": "TE2_2425.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2/TE2_2425.pdf"
+                        },
+                        {
+                          "name": "TE_2021_ASPECTS_FORMELS.jpg",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE2/TE_2021_ASPECTS_FORMELS.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE3",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE3",
+                      "children": [
+                        {
+                          "name": "TE3",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE3"
+                        },
+                        {
+                          "name": "MS2_DE_TE1_2021.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%201/TE3/MS2_DE_TE1_2021.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Semestre%202",
+                  "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202",
+                  "children": [
+                    {
+                      "name": "Semestre%202",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202"
+                    },
+                    {
+                      "name": "Langage%20formel",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel",
+                      "children": [
+                        {
+                          "name": "Langage%20formel",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel"
+                        },
+                        {
+                          "name": "TE%201",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel/TE%201",
+                          "children": [
+                            {
+                              "name": "TE%201",
+                              "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel/TE%201"
+                            },
+                            {
+                              "name": "MS_Formel_TE1_2324.pdf",
+                              "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel/TE%201/MS_Formel_TE1_2324.pdf"
+                            },
+                            {
+                              "name": "TE1%20LANGAGES%20FORMELS_2324.pdf",
+                              "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel/TE%201/TE1%20LANGAGES%20FORMELS_2324.pdf"
+                            },
+                            {
+                              "name": "TE1_2425.pdf",
+                              "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/Langage%20formel/TE%201/TE1_2425.pdf"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE1"
+                        },
+                        {
+                          "name": "TE1_2324.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE1/TE1_2324.pdf"
+                        },
+                        {
+                          "name": "TE1_2324v2.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE1/TE1_2324v2.pdf"
+                        },
+                        {
+                          "name": "TE1_2425.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE1/TE1_2425.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE2"
+                        },
+                        {
+                          "name": "TE2_2324.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE2/TE2_2324.pdf"
+                        },
+                        {
+                          "name": "TE2_2324v2.pdf",
+                          "path": "2eme/Tronc%20commun/math_specifique%201%20et%202/Semestre%202/TE2/TE2_2324v2.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "physique",
+              "path": "2eme/Tronc%20commun/physique",
+              "children": [
+                {
+                  "name": "physique",
+                  "path": "2eme/Tronc%20commun/physique"
+                },
+                {
+                  "name": "Semestre_1",
+                  "path": "2eme/Tronc%20commun/physique/Semestre_1",
+                  "children": [
+                    {
+                      "name": "Semestre_1",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_1"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_1/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE1"
+                        },
+                        {
+                          "name": "TE1_2324.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE1/TE1_2324.pdf"
+                        },
+                        {
+                          "name": "TE1_2324_n-muller.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE1/TE1_2324_n-muller.pdf"
+                        },
+                        {
+                          "name": "TE1_2425.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE1/TE1_2425.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_1/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE2"
+                        },
+                        {
+                          "name": "TE2_2324.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE2/TE2_2324.pdf"
+                        },
+                        {
+                          "name": "TE2_2324_n-muller.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE2/TE2_2324_n-muller.pdf"
+                        },
+                        {
+                          "name": "TE2_2425.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_1/TE2/TE2_2425.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Semestre_2",
+                  "path": "2eme/Tronc%20commun/physique/Semestre_2",
+                  "children": [
+                    {
+                      "name": "Semestre_2",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_2"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1"
+                        },
+                        {
+                          "name": "TE1%20PHYSIQUE_2324.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1/TE1%20PHYSIQUE_2324.pdf"
+                        },
+                        {
+                          "name": "TE1_2324.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1/TE1_2324.pdf"
+                        },
+                        {
+                          "name": "TE1_2425.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1/TE1_2425.pdf"
+                        },
+                        {
+                          "name": "TE_2324(Muller).pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE1/TE_2324(Muller).pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_2/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE2"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE3",
+                      "path": "2eme/Tronc%20commun/physique/Semestre_2/TE3",
+                      "children": [
+                        {
+                          "name": "TE3",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE3"
+                        },
+                        {
+                          "name": "Physique_TE3_2024-2025.pdf",
+                          "path": "2eme/Tronc%20commun/physique/Semestre_2/TE3/Physique_TE3_2024-2025.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "programmation_concurrente",
+              "path": "2eme/Tronc%20commun/programmation_concurrente",
+              "children": [
+                {
+                  "name": "programmation_concurrente",
+                  "path": "2eme/Tronc%20commun/programmation_concurrente"
+                },
+                {
+                  "name": "Semestre2",
+                  "path": "2eme/Tronc%20commun/programmation_concurrente/Semestre2",
+                  "children": [
+                    {
+                      "name": "Semestre2",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/Semestre2"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/Semestre2/TE1_2324.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/programmation_concurrente/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE1"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2324_p-bovey.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE1/TE1_2324_p-bovey.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/Tronc%20commun/programmation_concurrente/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE2"
+                    },
+                    {
+                      "name": "TE2_2324_p-bovey.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE2/TE2_2324_p-bovey.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "2eme/Tronc%20commun/programmation_concurrente/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "statistiques",
+              "path": "2eme/Tronc%20commun/statistiques",
+              "children": [
+                {
+                  "name": "statistiques",
+                  "path": "2eme/Tronc%20commun/statistiques"
+                },
+                {
+                  "name": "TE1",
+                  "path": "2eme/Tronc%20commun/statistiques/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "2eme/Tronc%20commun/statistiques/TE1"
+                    },
+                    {
+                      "name": "TE1_2324.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE1/TE1_2324.pdf"
+                    },
+                    {
+                      "name": "TE1_2324_c-hager-joerin.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE1/TE1_2324_c-hager-joerin.pdf"
+                    },
+                    {
+                      "name": "TE1_2425.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE1/TE1_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_DE",
+                  "path": "2eme/Tronc%20commun/statistiques/TE1_DE",
+                  "children": [
+                    {
+                      "name": "TE1_DE",
+                      "path": "2eme/Tronc%20commun/statistiques/TE1_DE"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "2eme/Tronc%20commun/statistiques/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "2eme/Tronc%20commun/statistiques/TE2"
+                    },
+                    {
+                      "name": "TE2_2324.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE2/TE2_2324.pdf"
+                    },
+                    {
+                      "name": "TE2_2324_c-hager-joerin.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE2/TE2_2324_c-hager-joerin.pdf"
+                    },
+                    {
+                      "name": "TE2_2425.pdf",
+                      "path": "2eme/Tronc%20commun/statistiques/TE2/TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2_DE",
+                  "path": "2eme/Tronc%20commun/statistiques/TE2_DE",
+                  "children": [
+                    {
+                      "name": "TE2_DE",
+                      "path": "2eme/Tronc%20commun/statistiques/TE2_DE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3eme",
+      "path": "3eme",
+      "children": [
+        {
+          "name": "3eme",
+          "path": "3eme"
+        },
+        {
+          "name": "Cours%20obsol%c3%a8tes",
+          "path": "3eme/Cours%20obsol%c3%a8tes",
+          "children": [
+            {
+              "name": "Cours%20obsol%c3%a8tes",
+              "path": "3eme/Cours%20obsol%c3%a8tes"
+            },
+            {
+              "name": "reseaux%20applications",
+              "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications",
+              "children": [
+                {
+                  "name": "reseaux%20applications",
+                  "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications"
+                },
+                {
+                  "name": "TE",
+                  "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE",
+                  "children": [
+                    {
+                      "name": "TE",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE"
+                    },
+                    {
+                      "name": "RESUMES",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/RESUMES",
+                      "children": [
+                        {
+                          "name": "RESUMES",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/RESUMES"
+                        },
+                        {
+                          "name": "TE01%20r%c3%a9sum%c3%a9%20Luca.docx",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/RESUMES/TE01%20r%c3%a9sum%c3%a9%20Luca.docx"
+                        },
+                        {
+                          "name": "TE01%20r%c3%a9sum%c3%a9.pdf",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/RESUMES/TE01%20r%c3%a9sum%c3%a9.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/TE1"
+                        },
+                        {
+                          "name": "REAP-TE1-2021.pdf",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/TE1/REAP-TE1-2021.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/reseaux%20applications/TE/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "techniques%20telecom",
+              "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom",
+              "children": [
+                {
+                  "name": "techniques%20telecom",
+                  "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom"
+                },
+                {
+                  "name": "TE",
+                  "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE",
+                  "children": [
+                    {
+                      "name": "TE",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "3eme/Cours%20obsol%c3%a8tes/techniques%20telecom/TE/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ID",
+          "path": "3eme/ID",
+          "children": [
+            {
+              "name": "ID",
+              "path": "3eme/ID"
+            }
+          ]
+        },
+        {
+          "name": "Tronc%20commun%20ou%20options",
+          "path": "3eme/Tronc%20commun%20ou%20options",
+          "children": [
+            {
+              "name": "Tronc%20commun%20ou%20options",
+              "path": "3eme/Tronc%20commun%20ou%20options"
+            },
+            {
+              "name": "Economie",
+              "path": "3eme/Tronc%20commun%20ou%20options/Economie",
+              "children": [
+                {
+                  "name": "Economie",
+                  "path": "3eme/Tronc%20commun%20ou%20options/Economie"
+                },
+                {
+                  "name": "TE1",
+                  "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE1"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0014.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE1/nume%e2%95%a0%c3%bcrisation0014.pdf"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0015.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE1/nume%e2%95%a0%c3%bcrisation0015.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE2"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0016.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE2/nume%e2%95%a0%c3%bcrisation0016.pdf"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0017.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/Economie/TE2/nume%e2%95%a0%c3%bcrisation0017.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "programmation%20GO",
+              "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO",
+              "children": [
+                {
+                  "name": "programmation%20GO",
+                  "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO"
+                },
+                {
+                  "name": "TE1",
+                  "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1"
+                    },
+                    {
+                      "name": "prog_go_TE1_2223.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1/prog_go_TE1_2223.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE1_2324",
+                  "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1_2324",
+                  "children": [
+                    {
+                      "name": "TE1_2324",
+                      "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1_2324"
+                    },
+                    {
+                      "name": "TE_2324.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/programmation%20GO/TE1_2324/TE_2324.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "securite%20des%20applications%20web",
+              "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web",
+              "children": [
+                {
+                  "name": "securite%20des%20applications%20web",
+                  "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web"
+                },
+                {
+                  "name": "TE1",
+                  "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE1",
+                  "children": [
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE1"
+                    },
+                    {
+                      "name": "SECA_TE1_2425_annote.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE1/SECA_TE1_2425_annote.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE2",
+                  "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE2",
+                  "children": [
+                    {
+                      "name": "TE2",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE2"
+                    },
+                    {
+                      "name": "SECA_TE2_2223.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE2/SECA_TE2_2223.pdf"
+                    },
+                    {
+                      "name": "SECA_TE2_2425.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE2/SECA_TE2_2425.pdf"
+                    }
+                  ]
+                },
+                {
+                  "name": "TE_2324",
+                  "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE_2324",
+                  "children": [
+                    {
+                      "name": "TE_2324",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE_2324"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0022.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE_2324/nume%e2%95%a0%c3%bcrisation0022.pdf"
+                    },
+                    {
+                      "name": "nume%e2%95%a0%c3%bcrisation0023.pdf",
+                      "path": "3eme/Tronc%20commun%20ou%20options/securite%20des%20applications%20web/TE_2324/nume%e2%95%a0%c3%bcrisation0023.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "traitement%20images",
+              "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images",
+              "children": [
+                {
+                  "name": "traitement%20images",
+                  "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images"
+                },
+                {
+                  "name": "TE",
+                  "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE",
+                  "children": [
+                    {
+                      "name": "TE",
+                      "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE"
+                    },
+                    {
+                      "name": "TE1",
+                      "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE/TE1",
+                      "children": [
+                        {
+                          "name": "TE1",
+                          "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE/TE1"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "TE2",
+                      "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE/TE2",
+                      "children": [
+                        {
+                          "name": "TE2",
+                          "path": "3eme/Tronc%20commun%20ou%20options/traitement%20images/TE/TE2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CONTACTS.txt",
+      "path": "CONTACTS.txt"
+    },
+    {
+      "name": "CalculateurDeNotes",
+      "path": "CalculateurDeNotes",
+      "children": [
+        {
+          "name": "CalculateurDeNotes",
+          "path": "CalculateurDeNotes"
+        },
+        {
+          "name": "notes_ISC1.xltx",
+          "path": "CalculateurDeNotes/notes_ISC1.xltx"
+        },
+        {
+          "name": "notes_ISC2-ID.xltx",
+          "path": "CalculateurDeNotes/notes_ISC2-ID.xltx"
+        },
+        {
+          "name": "notes_ISC2-IL.xltx",
+          "path": "CalculateurDeNotes/notes_ISC2-IL.xltx"
+        },
+        {
+          "name": "notes_ISC2-RS.xltx",
+          "path": "CalculateurDeNotes/notes_ISC2-RS.xltx"
+        }
+      ]
+    },
+    {
+      "name": "README.txt",
+      "path": "README.txt"
+    }
+  ]
+}
