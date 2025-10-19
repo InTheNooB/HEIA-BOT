@@ -1,19 +1,22 @@
-# ---- base image ----
-  FROM python:3.11-slim
+FROM python:3.11.8-slim
 
-  # ---- working directory ----
-  WORKDIR /app
-  
-  # ---- copy project files ----
-  COPY requirements.txt .
-  RUN pip install --no-cache-dir -r requirements.txt
-  
-  COPY . .
-  
-  # ---- environment variables ----
-  # These can be overridden by Docker secrets or your host
-  ENV PYTHONUNBUFFERED=1
-  
-  # ---- run the bot ----
-  CMD ["python", "bot.py"]
-  
+# Timezone + dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends tzdata && rm -rf /var/lib/apt/lists/*
+ENV TZ=Europe/Zurich
+ENV PYTHONUNBUFFERED=1
+
+# Working dir
+WORKDIR /app
+
+# Install deps
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy bot files
+COPY . .
+
+# Non-root user
+RUN useradd -m appuser
+USER appuser
+
+CMD ["python", "bot.py"]
