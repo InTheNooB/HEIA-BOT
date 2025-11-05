@@ -9,20 +9,10 @@ ENV PYTHONUNBUFFERED=1
 WORKDIR /app
 
 # Install deps
-COPY requirements.txt .
+COPY requirements.txt . 
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy bot files
 COPY . .
-
-
-# Non-root user
-RUN useradd -m appuser
-
-# Make data writable by normal user
-RUN mkdir -p /app/data && chown appuser:appuser /app/data
-
-# Define what user to run as
-USER appuser
 
 CMD ["python", "bot.py"]
